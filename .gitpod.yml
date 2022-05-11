@@ -16,8 +16,6 @@ vscode:
     - pivotal.vscode-spring-boot
 
 jetbrains:
-  intellij:  
-    plugins:
-      - com.haulmont.jpab
+  intellij:
     prebuilds:
       version: both
